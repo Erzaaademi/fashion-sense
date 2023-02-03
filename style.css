@@ -157,7 +157,7 @@ ul li a:hover {
         font-size: 15px; 
     }
 }
-@media (max-width:991px){
+@media only screen and (max-width:991px){
     .ea-row .ea-right .ea-content {
         padding-left: 0;
     }
