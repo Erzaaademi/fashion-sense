@@ -158,7 +158,7 @@ ul li a:hover {
     }
 }
 @media (max-width:991px){
-    .row .right .content {
+    .ea-row .ea-right .ea-content {
         padding-left: 0;
     }
 }
@@ -177,7 +177,7 @@ ul li a:hover {
         padding: 20px;
         float: left;
     }
-    .row {
+    .ea-row {
         width:90%;
         grid-template-columns:1fr;
     }
